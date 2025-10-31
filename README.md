@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-<!--
-**uint14/uint14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im 14 years old and i have been using linux for the past 2 years, I really enjoy it.
+I only know basic python and bash scripting but im looking into learning a coding language like C or just fully learn bash scripting.
 
-Here are some ideas to get you started:
-
+ btw if you want to contact me my email is : youhoo18@proton.me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
